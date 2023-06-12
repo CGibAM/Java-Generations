@@ -1,0 +1,14 @@
+package com.generations.tiposdatos;
+
+public class TiposDeDatos {
+
+	public static void main(String[] args) {
+//		System.out.println("Hello world");
+		
+		byte salas = 10;
+		
+		System.out.println(salas);
+
+	}
+
+}

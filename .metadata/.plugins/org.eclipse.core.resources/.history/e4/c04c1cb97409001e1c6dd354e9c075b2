@@ -1,0 +1,8 @@
+package com.generations.hotelvar;
+
+public class VariablesHotel {
+	public static void main(String[] args) {
+		System.out.println();
+	}
+
+}
