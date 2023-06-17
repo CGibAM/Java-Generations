@@ -3,14 +3,14 @@ package com.generations.condicionalesyciclos;
 import java.util.Scanner;
 
 public class CondicionalesHotel {
-
+	
 	public static void main(String[] args) {
-
+		
 		
 	}
 
 	//Este método determina el tipo de pago a realizar
-	public static void metodosDePago() {
+	public void metodosDePago() {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Seleccione el tipo de pago/n 1.Tarjeta /n 2.Efectivo");
 
