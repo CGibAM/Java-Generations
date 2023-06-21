@@ -9,4 +9,10 @@
     <fullyQualifiedTypeName name="com.generations.poo.Persona"/>
     <fullyQualifiedTypeName name="org.generations.poo.Empleado"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="org.generations.Animal.Perro"/>
+    <fullyQualifiedTypeName name="org.generations.ejercicio.Cuenta"/>
+    <fullyQualifiedTypeName name="org.generations.ejercicio.PlazoFijo"/>
+    <fullyQualifiedTypeName name="org.generations.ejercicio.CajaAhorro"/>
+    <fullyQualifiedTypeName name="org.generations.ejerciciocuentaahorro.PlazoFijo"/>
+    <fullyQualifiedTypeName name="org.generations.producto.Producto"/>
 </qualifiedTypeNameHistroy>

@@ -7,6 +7,20 @@ public class Test {
 				"332456am", "Botones");
 		
 		federico.mostrarInfo();
+		
+		//Instancia cliente
+		Cliente gibran = new Cliente("Gibran", "ABCD1234", 175875.00, 1234);
+		
+		gibran.mostrarInfoCliente();
+		
+		//Modificacón atributo
+		gibran.nombre = "Pancho";
+		//gibran.setSaldo(0.00);
+		gibran.setCuenta("DCBA123");
+		
+		gibran.mostrarInfoCliente();
+		
+		
 	}
 
 }

@@ -1,10 +1,10 @@
 package org.generations.Animal;
 
 public class Animal {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	
+	//Creo un metodo que demuestre como u animal hace sonidos
+	public void crearSonido() {
+		System.out.println("Hace sonido: ");
 	}
-
+	
 }
