@@ -15,4 +15,9 @@
     <fullyQualifiedTypeName name="org.generations.ejercicio.CajaAhorro"/>
     <fullyQualifiedTypeName name="org.generations.ejerciciocuentaahorro.PlazoFijo"/>
     <fullyQualifiedTypeName name="org.generations.producto.Producto"/>
+    <fullyQualifiedTypeName name="org.generations.poo.Cliente"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
