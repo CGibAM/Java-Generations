@@ -15,11 +15,18 @@
     <fullyQualifiedTypeName name="org.generations.ejercicio.CajaAhorro"/>
     <fullyQualifiedTypeName name="org.generations.ejerciciocuentaahorro.PlazoFijo"/>
     <fullyQualifiedTypeName name="org.generations.producto.Producto"/>
-    <fullyQualifiedTypeName name="org.generations.poo.Cliente"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.HashSet"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="org.generations.abstraccion.Vehiculo"/>
     <fullyQualifiedTypeName name="org.generations.abstraccion.Motocicleta"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.generations.utils.Cliente"/>
+    <fullyQualifiedTypeName name="org.generations.poo.Cliente"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="org.generations.ejercicio.Calculadora"/>
+    <fullyQualifiedTypeName name="junit.framework.Assert"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
 </qualifiedTypeNameHistroy>
